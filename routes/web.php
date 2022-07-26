@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('pages/welcome');
 });
 
@@ -25,3 +26,7 @@ Route::get('/contact', function()
 {
    return View::make('pages.contact');
 });
+=======
+    return view('welcome');
+});
+>>>>>>> main

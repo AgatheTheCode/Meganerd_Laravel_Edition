@@ -4,7 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
     "content-hash": "2c3fccbf29911339e61b67432f4a8f23",
+=======
+    "content-hash": "8ea6e37b9df13f57393d506f3e6b0b46",
+>>>>>>> main
     "packages": [
         {
             "name": "brick/math",
@@ -1266,6 +1270,7 @@
             "time": "2022-03-23T12:38:24+00:00"
         },
         {
+<<<<<<< HEAD
             "name": "laravel/ui",
             "version": "v3.4.6",
             "source": {
@@ -1327,6 +1332,8 @@
             "time": "2022-05-20T13:38:08+00:00"
         },
         {
+=======
+>>>>>>> main
             "name": "league/commonmark",
             "version": "2.3.4",
             "source": {
